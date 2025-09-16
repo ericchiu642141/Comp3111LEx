@@ -6,4 +6,4 @@ The above is my project content
 
 this is my IDE environment
 
-![Image](picture_1.png)
+![Image](../../../../picture_1.png)
